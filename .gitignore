@@ -1,0 +1,4 @@
+.DS_STORE
+secrets.txt
+
+*.php
